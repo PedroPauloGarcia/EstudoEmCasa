@@ -9,7 +9,7 @@
     color: rgb(0, 255, 0);
 }
 
-blockquote{
+blockquote {
 padding: 10px;
 float: right;
 width: 30%;
@@ -17,4 +17,8 @@ background-color: rgb(255, 0, 0);
 border: 10px solid #444;
 display: block;
 margin: 0 5%;
+}
+
+img {
+    float: left;
 }
