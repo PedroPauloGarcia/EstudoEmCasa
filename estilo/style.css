@@ -1,0 +1,20 @@
+*{
+    margin: o;
+    position: 0;
+    box-sizing: border-box;
+}
+
+.diferenca {
+    text-align: center;
+    color: rgb(0, 255, 0);
+}
+
+blockquote{
+padding: 10px;
+float: right;
+width: 30%;
+background-color: rgb(255, 0, 0);
+border: 10px solid #444;
+display: block;
+margin: 0 5%;
+}
